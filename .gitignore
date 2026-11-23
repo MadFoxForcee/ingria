@@ -1,0 +1,6 @@
+.telegram-token
+.env
+.env.*
+.venv/
+__pycache__/
+data/
